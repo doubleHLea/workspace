@@ -30,31 +30,41 @@ Spring Framework 5.2.25, Mybatis 3.5.14, Mybatis-spring 2.1.2, Lombok 1.18.30
 -----------------------------------------------------
 
 ## 핵심 기능
-![로그인 화면](https://github.com/doubleHLea/workspace/assets/144035274/a2c3203f-dfe0-401a-95f4-4e819e43c303)
-- 로그인      : 해당 세션이 유지되는 동안 로그인 사용 기능
 
-- 검색        : 서류와 게시판 각각 검색 가능
-
-![기안 작성](https://github.com/doubleHLea/workspace/assets/144035274/fc5bbd59-52c1-4128-9a61-645bbf021cef)
-- 기안 작성   : 결재라인 선택, 첨부파일 업로드
+  - 로그인      : 해당 세션이 유지되는 동안 로그인 사용 기능
 
 
-
-![내 결재함](https://github.com/doubleHLea/workspace/assets/144035274/f40b9222-5c89-4fd2-a704-983376ab9fe8)
-- 내 결재함   : 로그인한 유저가 작성한 문서만 조회 가능, 페이지네이션
+<img src="https://github.com/doubleHLea/workspace/assets/144035274/a2c3203f-dfe0-401a-95f4-4e819e43c303" width="600px" title="로그인화면" alt="login"></img>
 
 
-
-![진행결재함](https://github.com/doubleHLea/workspace/assets/144035274/7dbfa29d-b52c-40f5-88a8-2f223659ee78)
-- 진행 결재함 : 현재 결재 상태가 진행중인 서류 중 해당 결재라인에 해당하는 담당자와 다음 결재자에게만 표시, 페이지네이션
-
+  - 검색        : 서류와 게시판 각각 검색 가능
+  - 기안 작성   : 결재라인 선택, 첨부파일 업로드
 
 
-![반려결재함](https://github.com/doubleHLea/workspace/assets/144035274/89279b6e-ac51-4a8a-9c4c-e19460385e86)
-![반려(전)](https://github.com/doubleHLea/workspace/assets/144035274/5df1a497-9641-4c9e-8336-ce3f322322cd)
+<img src="https://github.com/doubleHLea/workspace/assets/144035274/fc5bbd59-52c1-4128-9a61-645bbf021cef" width="1000px" title="기안작성" alt="write"></img>
+
+  - 내 결재함   : 로그인한 유저가 작성한 문서만 조회 가능, 페이지네이션
+
+<img src="https://github.com/doubleHLea/workspace/assets/144035274/f40b9222-5c89-4fd2-a704-983376ab9fe8" width="1000px" title="내결재함" alt="documentsBox"></img>
+
+  - 진행 결재함 : 현재 결재 상태가 진행중인 서류 중 해당 결재라인에 해당하는 담당자와 다음 결재자에게만 표시, 페이지네이션
+
+<img src="https://github.com/doubleHLea/workspace/assets/144035274/7dbfa29d-b52c-40f5-88a8-2f223659ee78" width="1000px" title="진행결재함" alt="progressBox"></img>
+
+
+
+  - 반려 결재함 : 서류가 반려될 시 최초 작성자에게만 반려 사항이 보여짐, 페이지네이션
+<img src="https://github.com/doubleHLea/workspace/assets/144035274/89279b6e-ac51-4a8a-9c4c-e19460385e86" width="1000px" title="반려결재함" alt="returnBox"></img>
+
+  - 반려 결재 전
+<img src="https://github.com/doubleHLea/workspace/assets/144035274/5df1a497-9641-4c9e-8336-ce3f322322cd" width="1000px" title="반려결재함" alt="returnBox-before"></img>
+
+  - 반려 결재
 ![반려 결재](https://github.com/doubleHLea/workspace/assets/144035274/3e80f55b-ae4c-4168-8625-8477019103ee)
+
+  - 반려 결재 상세
 ![반려결재(상세)](https://github.com/doubleHLea/workspace/assets/144035274/3d211c61-7525-4ac1-aaea-09bc97c8c83b)
-- 반려 결재함 : 서류가 반려될 시 최초 작성자에게만 반려 사항이 보여짐, 페이지네이션
+
 
 
 
