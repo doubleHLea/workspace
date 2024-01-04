@@ -38,11 +38,17 @@ Spring Framework 5.2.25, Mybatis 3.5.14, Mybatis-spring 2.1.2, Lombok 1.18.30
 ![기안 작성](https://github.com/doubleHLea/workspace/assets/144035274/fc5bbd59-52c1-4128-9a61-645bbf021cef)
 - 기안 작성   : 결재라인 선택, 첨부파일 업로드
 
+
+
 ![내 결재함](https://github.com/doubleHLea/workspace/assets/144035274/f40b9222-5c89-4fd2-a704-983376ab9fe8)
 - 내 결재함   : 로그인한 유저가 작성한 문서만 조회 가능, 페이지네이션
 
+
+
 ![진행결재함](https://github.com/doubleHLea/workspace/assets/144035274/7dbfa29d-b52c-40f5-88a8-2f223659ee78)
 - 진행 결재함 : 현재 결재 상태가 진행중인 서류 중 해당 결재라인에 해당하는 담당자와 다음 결재자에게만 표시, 페이지네이션
+
+
 
 ![반려결재함](https://github.com/doubleHLea/workspace/assets/144035274/89279b6e-ac51-4a8a-9c4c-e19460385e86)
 ![반려(전)](https://github.com/doubleHLea/workspace/assets/144035274/5df1a497-9641-4c9e-8336-ce3f322322cd)
@@ -50,20 +56,30 @@ Spring Framework 5.2.25, Mybatis 3.5.14, Mybatis-spring 2.1.2, Lombok 1.18.30
 ![반려결재(상세)](https://github.com/doubleHLea/workspace/assets/144035274/3d211c61-7525-4ac1-aaea-09bc97c8c83b)
 - 반려 결재함 : 서류가 반려될 시 최초 작성자에게만 반려 사항이 보여짐, 페이지네이션
 
+
+
 ![완료결재함](https://github.com/doubleHLea/workspace/assets/144035274/5809ef10-3c8b-45a0-9755-4c46385b96b0)
 - 완료 결재함 : 해당 결재라인의 모두가 완료된 결재서류를 열람 가능, 페이지네이션
+
+
 
 ![게시판](https://github.com/doubleHLea/workspace/assets/144035274/16f7863c-3440-4d83-ad82-e6b57c35ba91)
 - 게시판      : 사용자들이 자유롭게 작성 가능한 사내 게시판
 
+
+
 ![내 게시글](https://github.com/doubleHLea/workspace/assets/144035274/17c47eb2-3e55-4f2a-a415-596c545d283f)
 - 내 게시글   : 로그인한 유저의 게시글만 보임
+
+
 
 ![휴지통으로 이동1](https://github.com/doubleHLea/workspace/assets/144035274/d61e12e9-ada4-4934-a093-40b601b37a59)
 ![휴지통으로이동(2)](https://github.com/doubleHLea/workspace/assets/144035274/49e5fbd4-bd9d-455a-9150-44c208fc9f11)
 ![복원](https://github.com/doubleHLea/workspace/assets/144035274/0fbf2822-6a28-4ed4-a890-c8852ef06c74)
 ![삭제](https://github.com/doubleHLea/workspace/assets/144035274/9b4eb4e1-d54d-4a6c-89f3-5df01b5fdc86)
 - 휴지통      : 결재가 완료된 결재서류만 삭제/복원 기능, 페이지네이션
+
+
 
 ## 서류 조회
 ![결재 승인(전)](https://github.com/doubleHLea/workspace/assets/144035274/5f905a06-f297-4ede-ad3f-71b72b50ca2b)
