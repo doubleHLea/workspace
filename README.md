@@ -42,4 +42,4 @@ WORKSPACE
 - Front : 헤더/사이더, 결재함 전반
 - Back : 문서 조회, 결재함 상태/사용자별 조회, 검색, 첨부파일 업로드/다운로드, 페이지네이션
 
-
+![게시판](https://github.com/doubleHLea/workspace/assets/144035274/488bd451-ad6b-432d-9aaa-dc671b3dc3f3)
